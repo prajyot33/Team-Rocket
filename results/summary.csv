@@ -1,0 +1,6 @@
+scenario,label,energy_drift_or_lyapunov,notes
+stable,Stable Orbit,2.5388403699880517e-10,bounded radius, low energy drift, and repeated revolution
+escape,Escape Trajectory,0.0,positive outward orbital energy or large radius growth
+collision,Collision,0.0,surface overlap detected for body indices (0, 1)
+binary-chaos,Chaotic Motion,2.7805917458282906e-08,nearby trajectories diverged exponentially
+random5,Escape Trajectory,0.0,positive outward orbital energy or large radius growth
